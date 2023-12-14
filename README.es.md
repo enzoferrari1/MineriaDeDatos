@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/enzoferrari1/AprendizajeAutomatico1/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/enzoferrari1/MineriaDeDatos/blob/main/README.md)
 
 # Minería de Datos
 En este repositorio se encuentran los tres trabajos prácticos de la materia Minería de Datos de la carrera Tecnicatura Universitaria en Inteligencia Artificial de la UNR.
