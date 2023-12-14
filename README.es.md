@@ -2,6 +2,12 @@
 
 # Minería de Datos
 En este repositorio se encuentran los tres trabajos prácticos de la materia Minería de Datos de la carrera Tecnicatura Universitaria en Inteligencia Artificial de la UNR.
+
+# Integrantes
+- Enzo Ferrari
+- [Micaela Pozzo](https://github.com/MicaPozzo)
+
+
 # Descripción
 Dentro de estos trabajos se encuentran casi en su totalidad los temas de la materia puestos en práctica.
 ## Trabajo Práctico 1
